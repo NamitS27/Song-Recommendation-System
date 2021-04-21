@@ -25,7 +25,7 @@ The implementation can be seen [here](Code/) and the following results can be se
 <br>
 
 ### Authors
-- [Namit Shah]()
-- [Martand Javia]()
-- [Suhanee Patel]()
-- [Devarsh Patel]()
+- [Namit Shah](https://github.com/NamitS27)
+- [Martand Javia](https://github.com/MRJ35)
+- [Suhanee Patel](https://github.com/SuhaneeP)
+- [Devarsh Patel](https://github.com/D3VAR5H)
